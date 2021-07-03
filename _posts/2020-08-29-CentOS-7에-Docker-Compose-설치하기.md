@@ -1,7 +1,7 @@
 ---
 title: CentOS 7에 Docker Compose 설치하기
 author: Hangyoung Kim
-date: 2021-07-03 07:12:00 +0900
+date: 2020-08-29 20:44:00 +0900
 categories: [Infrastructure, Docker]
 tags: [Docker, docker-compose]
 comments: true

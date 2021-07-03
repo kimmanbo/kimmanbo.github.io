@@ -1,7 +1,7 @@
 ---
 title: Docker Compose로 MariaDB 실행하기
 author: Hangyoung Kim
-date: 2021-07-03 14:50:00 +0900
+date: 2021-08-29 23:14:00 +0900
 categories: [Infrastructure, Docker]
 tags: [Docker, docker-compose, MariaDB]
 comments: true
