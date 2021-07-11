@@ -81,8 +81,8 @@ avatar: https://cdn.jsdelivr.net/gh/kimmanbo/cdn-jsdelivr/blog/avatar/avatar.png
 toc: true
 
 disqus:
-  comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'kimmanbo-blog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments:   # boolean type, the global switch for posts comments.
+  shortname:  # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
